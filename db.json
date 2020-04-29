@@ -1,0 +1,32 @@
+﻿{
+ "pessoas" :[
+		{
+			"id":1,
+			"nomeCompleto":"Jorge Matheus",
+			"email":"jorge@hotmail.com",
+			"senha":"123",
+			"escolaridade":"fundamental"
+		},
+		{
+			"id":2,
+			"nomeCompleto":"Adrian Lima",
+			"email":"Adrian@hotmail.com",
+			"senha":"123",
+			"escolaridade":"fundamental"
+		},
+		{
+			"id":3,
+			"nomeCompleto":"Marcela Silva",
+			"email":"marcela@mail.com",
+			"senha":"123",
+			"escolaridade":"superior"
+		},
+		{
+			"id":2,
+			"nomeCompleto":"Ana Jacinta",
+			"email":"aninha@jacinto.com",
+			"senha":"123",
+			"escolaridade":"medio"
+		}
+	]
+}
